@@ -12,28 +12,28 @@ La forma en que trabaja esta estructura es guardando palabras (*strings*),cada c
 
 ![Screenshot 2024-10-07 at 11 42 51 AM](https://github.com/user-attachments/assets/78dff416-38dc-4002-a752-f27af7c8d514)
 
-#### Características
+## Características
 
 El "*Trie*" es una estructura de tipo arbol, eficiente para el guardado de cadenas de caracteres. Esta estructura trabaja con un ***alfabeto finito***, esto quiere decir que cada nodo del arbol tendrá como mucho un numero de hijos igual al numero de llaves dentro de este alfabeto, debido a esto, la estructura **NO** es eficiente en termino de memoria.
 
 ![Screenshot 2024-10-07 at 11 51 03 AM](https://github.com/user-attachments/assets/4323c741-3bfe-47d7-a9de-7722cbdda47f)
 
-#### Operaciones clave de la estructura
+## Operaciones clave de la estructura
 
 ![Screenshot 2024-10-07 at 11 55 40 AM](https://github.com/user-attachments/assets/43d9c2f0-c35e-421f-b66b-35c81634fecc)
-*K siendo el largo de la cadena.*
 
-#### Resultados
 
-##### Inserción
+## Resultados
 
-![Screenshot 2024-10-07 at 11 59 55 AM](https://github.com/user-attachments/assets/f5a0f2a4-ddaa-476a-bc1c-a0c642608356)
+#### Inserción
+
+<img align="left" width=200 src="https://github.com/user-attachments/assets/f5a0f2a4-ddaa-476a-bc1c-a0c642608356">
 
 
 ![Screenshot 2024-10-07 at 12 00 19 PM](https://github.com/user-attachments/assets/f75df0a5-61f7-4f8a-af1f-b7910859a187)
 
 
-#### Búsqueda
+### Búsqueda
 
 ![Screenshot 2024-10-07 at 12 00 55 PM](https://github.com/user-attachments/assets/ed4bc951-7acd-43a6-9c65-281624fbd2d4)
 

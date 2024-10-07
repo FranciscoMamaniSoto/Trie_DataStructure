@@ -19,5 +19,7 @@ La forma en que trabaja esta estructura es guardando palabras (*strings*),cada c
 ***Operaciones clave de la estructura***
 
 ***Inserción*** *O(K)* *(K siendo el largo de la cadena)*.
+
 ***Búsqueda***  *O(K)* *(K siendo el largo de la cadena)*.
+
 ***Eliminación*** *O(K)* *(K siendo el largo de la cadena)*.

@@ -20,22 +20,18 @@ El "*Trie*" es una estructura de tipo arbol, eficiente para el guardado de caden
 
 ## Operaciones clave de la estructura
 
-![Screenshot 2024-10-07 at 11 55 40 AM](https://github.com/user-attachments/assets/43d9c2f0-c35e-421f-b66b-35c81634fecc)
-
+<img align="center" width=400 src="https://github.com/user-attachments/assets/43d9c2f0-c35e-421f-b66b-35c81634fecc">
 
 ## Resultados
 
 #### Inserción
 
 <img align="left" width=200 src="https://github.com/user-attachments/assets/f5a0f2a4-ddaa-476a-bc1c-a0c642608356">
-
-
-![Screenshot 2024-10-07 at 12 00 19 PM](https://github.com/user-attachments/assets/f75df0a5-61f7-4f8a-af1f-b7910859a187)
+<img align="rigth" width=200 src="https://github.com/user-attachments/assets/f75df0a5-61f7-4f8a-af1f-b7910859a187">
 
 
 ### Búsqueda
 
-![Screenshot 2024-10-07 at 12 00 55 PM](https://github.com/user-attachments/assets/ed4bc951-7acd-43a6-9c65-281624fbd2d4)
+<img align="left" width=200 src="https://github.com/user-attachments/assets/ed4bc951-7acd-43a6-9c65-281624fbd2d4">
+<img align="rigth" width=200 src="https://github.com/user-attachments/assets/d72b4d8b-4feb-4281-8916-1a6cf610d78f">
 
-
-![Screenshot 2024-10-07 at 12 01 22 PM](https://github.com/user-attachments/assets/d72b4d8b-4feb-4281-8916-1a6cf610d78f)
